@@ -1,7 +1,6 @@
 # 🧩 LeetCode & Codeforces Dashboard
 
 ### 🟡 LeetCode Statistics
-![LeetCode Solved Stats](https://leetcard.jacoblin.cool/TeekamSingh44?theme=dark&font=baloo)
 ![LeetCode Contest Card](https://leetcard.jacoblin.cool/TeekamSingh44?ext=contest&theme=dark)
 
 ---
