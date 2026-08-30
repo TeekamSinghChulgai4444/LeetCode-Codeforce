@@ -1,10 +1,9 @@
-# 🧩 LeetCode & Codeforces Dashboard
+# 🧩 LeetCode Dashboard
 
-### 🟡 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/TeekamSingh44)
+### 📊 Solved Questions Breakdown
+![LeetCode Solved Stats](https://leetcode-stats-api.herokuapp.com/TeekamSingh44)
 
 ---
 
-## 📁 Repository Structure
-* `/LeetCode` — Solutions auto-synced via LeetHub
-* `/Codeforces` — Solutions auto-synced via Codeforces Sync
+### 🏆 Contest Performance
+![LeetCode Contest Card](https://leetcard.jacoblin.cool/TeekamSingh44?ext=contest)
