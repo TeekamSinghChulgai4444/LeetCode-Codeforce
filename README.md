@@ -1,11 +1,10 @@
 # 🧩 LeetCode & Codeforces Dashboard
 
-### 🟡 LeetCode Stats & Contest History
-
+### 🟡 LeetCode Stats
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/TeekamSingh44)
 
 ---
 
 ## 📁 Repository Structure
-* `/LeetCode` — Auto-synced solutions via LeetHub
-* `/Codeforces` — Auto-synced submissions
+* `/LeetCode` — Solutions auto-synced via LeetHub
+* `/Codeforces` — Solutions auto-synced via Codeforces Sync
