@@ -6,5 +6,4 @@
 
 ---
 
-### 🎯 Live Skill Breakdown
-![Teekam's LeetCode Skills](https://leetcode-stats-six.vercel.app/api?username=TeekamSingh44&theme=dark)
+
