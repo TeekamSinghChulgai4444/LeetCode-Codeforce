@@ -1,53 +1,15 @@
 # 🧩 LeetCode & Codeforces Dashboard
 
-### 📊 Solved Questions Breakdown
+### 📊 Overall Solved & Contest Stats
 ![LeetCode Solved Stats](https://leetcard.jacoblin.cool/TeekamSingh44?theme=dark&font=baloo)
-
----
-
-### 🏆 Contest Performance
 ![LeetCode Contest Card](https://leetcard.jacoblin.cool/TeekamSingh44?ext=contest&theme=dark)
 
 ---
 
-## 🎯 Topic-Wise Progress Tracker
+### 🎯 Live Topic-Wise Question Counts
+*(This card queries LeetCode directly and updates automatically as you solve questions in each topic)*
 
-### 🟢 Fundamental Topics
-| Status | Topic Tag | Solved Count | Target |
-| :---: | :--- | :---: | :---: |
-| [x] | Arrays & Hashing | 12 | 20 |
-| [x] | Strings | 12 | 20 |
-| [ ] | Two Pointers | 0 | 15 |
-| [ ] | Sliding Window | 0 | 15 |
-| [ ] | Fast & Slow Pointers | 0 | 10 |
-| [ ] | Prefix Sum | 0 | 10 |
-
----
-
-### 🟡 Intermediate Topics
-| Status | Topic Tag | Solved Count | Target |
-| :---: | :--- | :---: | :---: |
-| [ ] | Stack | 0 | 15 |
-| [ ] | Queue / Monotonic Queue | 0 | 10 |
-| [ ] | Binary Search | 0 | 20 |
-| [ ] | Linked List | 0 | 15 |
-| [ ] | Trees & Binary Trees | 0 | 25 |
-| [ ] | Heaps / Priority Queue | 0 | 15 |
-| [ ] | Intervals | 0 | 10 |
-| [ ] | Greedy Algorithms | 0 | 15 |
-
----
-
-### 🔴 Advanced Topics
-| Status | Topic Tag | Solved Count | Target |
-| :---: | :--- | :---: | :---: |
-| [ ] | Backtracking | 0 | 15 |
-| [ ] | Graphs (BFS / DFS) | 0 | 25 |
-| [ ] | Advanced Graph (Dijkstra / Union-Find) | 0 | 15 |
-| [ ] | Dynamic Programming (1D / 2D) | 0 | 30 |
-| [ ] | Tries | 0 | 10 |
-| [ ] | Bit Manipulation | 0 | 10 |
-| [ ] | Math & Geometry | 0 | 10 |
+![Teekam's Top Skills](https://github-readme-leetcode-stats.vercel.app/api/skills?username=TeekamSingh44&theme=dark&top=15)
 
 ---
 
