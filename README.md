@@ -7,4 +7,5 @@
 ---
 
 ## 📁 Repository Structure
-* `/LeetCode` — Auto-synced solutions organized by topic and problem.
+* `/LeetCode` — Auto-synced solutions via LeetHub
+* `/Codeforces` — Auto-synced submissions
